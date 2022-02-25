@@ -6,6 +6,7 @@
 </head>
 <body>
 <h1>thisma first site ever</h1>
+<p>Github update!</p>
 <a href="tweede.jsp">naar tweede pagina</a>
 </body>
 </html>
